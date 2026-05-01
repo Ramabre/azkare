@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959623989524",
+    "project_id": "azkare2026",
+    "storage_bucket": "azkare2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959623989524:android:d74f1397ffa0d201045a01",
+        "android_client_info": {
+          "package_name": "com.example.azkare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHDWAzliFgh8s6iNzoz8vOty3fCYV9BV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
